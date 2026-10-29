@@ -1,0 +1,10 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# competition data (download from Zindi, see README) and outputs derived from it
+data/
+submissions/**/*.csv
+logs/

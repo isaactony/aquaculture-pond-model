@@ -1,0 +1,19 @@
+{
+  "cv": {
+    "masked (test-like)": {
+      "f1": 0.9682,
+      "auc": 0.9946,
+      "score": 0.9788,
+      "mean_p": 0.403
+    },
+    "full 12 months": {
+      "f1": 0.9781,
+      "auc": 0.9971,
+      "score": 0.9857,
+      "mean_p": 0.402
+    }
+  },
+  "n_features": 121,
+  "test_pond_share": 0.611,
+  "test_uncertain_share_0.1_0.9": 0.19
+}
